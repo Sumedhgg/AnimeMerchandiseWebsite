@@ -1,0 +1,16 @@
+saddlebrown
+sandybrown
+sienna
+silver
+slategrey
+tan
+steelblue
+wheat
+antiquewhite
+bisque
+brown
+burlywood
+cornsilk
+
+change navbar css burlywood
+
